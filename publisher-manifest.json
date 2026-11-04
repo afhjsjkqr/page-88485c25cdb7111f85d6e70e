@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "470a203539d04febd2ca6932",
+  "owner": "afhjsjkqr",
+  "repo": "page-88485c25cdb7111f85d6e70e",
+  "title": "MLLSS",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "88485c25cdb7111f85d6e70e",
+      "a": "MLLSS",
+      "b": "",
+      "entity": "MLLSS",
+      "brand": "MLLSS",
+      "separator": "",
+      "path": "index.html",
+      "hash": "5cc99ceac3ca4152c3ceeac6a90d922edced575b977f4e985e74641bdb601ba8",
+      "content": {
+        "keyword1": "MLLSS",
+        "keyword2": "",
+        "primary_entity": "MLLSS",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "MLLSS机场套餐、客户端与使用说明一览：对照基础版、旗舰版、团队版三档套餐的价格、流量与同时在线设备数，并整理客户端选择建议与首次上手五步。",
+          "AI_DESCRIPTION": "MLLSS机场套餐、客户端与使用说明一览：对照基础版、旗舰版、团队版三档套餐的价格、流量与同时在线设备数，并整理客户端选择建议与首次上手五步。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*,*::before,*::after{box-sizing:border-box}\nbody{margin:0;background:#fff;color:#16130f;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.75;-webkit-font-smoothing:antialiased}\na{color:inherit}\n.masthead{max-width:1080px;margin:0 auto;padding:26px 20px 15px;display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:8px;border-bottom:2px solid #16130f}\n.logo{font-size:15px;font-weight:800;letter-spacing:.2em}\n.logo span{color:#ff5500}\n.masthead p{margin:0;font-size:12.5px;letter-spacing:.06em;color:#6d635b}\nmain{max-width:1080px;margin:0 auto;padding:0 20px}\n.hero{padding-top:38px}\n.kicker{display:inline-block;margin:0 0 12px;font-size:11.5px;font-weight:700;letter-spacing:.2em;color:#ff5500;text-transform:uppercase}\nh1{font-size:clamp(28px,4.4vw,44px);line-height:1.22;letter-spacing:-.02em;font-weight:800;margin:0 0 16px;max-width:20em}\n.lede{font-size:16px;color:#4c443d;margin:0;max-width:36em}\n.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(158px,1fr));gap:12px;margin-top:30px}\n.tile{border:1.5px dashed #d9d1c8;border-radius:6px;padding:14px 15px 15px;display:flex;flex-direction:column;min-height:116px;background:#fff}\n.tile .lab{font-size:12px;font-weight:600;letter-spacing:.08em;color:#6d635b}\n.tile .val{margin-top:auto;font-size:30px;font-weight:800;line-height:1.15;letter-spacing:-.02em}\n.tile .val small{font-size:13.5px;font-weight:600;color:#6d635b;letter-spacing:0}\n.tile .sub{font-size:12px;color:#6d635b;margin-top:2px}\n.tile--accent{background:#fff2ea;border-color:#ffb38a}\n.tile--accent .val{color:#ff5500}\n.jump{display:flex;flex-wrap:wrap;gap:8px;margin-top:24px}\n.jump a{display:inline-block;font-size:13px;font-weight:600;text-decoration:none;border:1.5px solid #16130f;border-radius:4px;padding:5px 13px}\n.jump a:hover,.jump a:focus{background:#16130f;color:#fff}\nsection{padding-top:58px}\n.sec-head{margin-bottom:22px;padding-bottom:13px;border-bottom:1.5px dashed #d9d1c8}\nh2{font-size:clamp(21px,2.8vw,28px);margin:0 0 6px;font-weight:800;letter-spacing:-.01em}\n.sec-head p{margin:0;font-size:14px;color:#6d635b}\n.table-wrap{overflow-x:auto;border:1.5px dashed #d9d1c8;border-radius:6px;background:#fff}\ntable{width:100%;min-width:680px;border-collapse:collapse;font-size:14.5px}\ncaption{text-align:left;padding:0 0 10px;font-size:13px;color:#6d635b}\nth,td{padding:13px 16px;text-align:left;border-bottom:1px dashed #e5ded6;vertical-align:top}\nthead th{background:#fff2ea;font-size:13.5px;font-weight:700;border-bottom:1.5px dashed #d9d1c8}\nthead th:first-child{font-weight:600;color:#6d635b}\ntbody th{font-weight:600;color:#4c443d;white-space:nowrap}\ntbody tr:last-child th,tbody tr:last-child td{border-bottom:0}\n.col-price{color:#ff5500;font-weight:800}\n.badge{display:inline-block;margin-left:6px;font-size:11px;font-weight:700;background:#ff5500;color:#fff;border-radius:3px;padding:1px 6px;vertical-align:1px;letter-spacing:.05em}\n.note{font-size:12.5px;color:#6d635b;margin:12px 0 0}\n.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(232px,1fr));gap:12px}\n.card{border:1.5px dashed #d9d1c8;border-radius:6px;padding:18px 18px 16px;background:#fff}\n.card::before{content:\"\";display:block;width:30px;height:4px;background:#ff5500;border-radius:2px;margin-bottom:12px}\n.card h3{font-size:16px;margin:0 0 8px;letter-spacing:-.01em}\n.card p{margin:0;font-size:14px;color:#4c443d}\n.steps{list-style:none;margin:0;padding:0;display:grid;gap:10px}\n.steps li{display:grid;grid-template-columns:52px 1fr;gap:14px;align-items:start;border:1.5px dashed #d9d1c8;border-radius:6px;padding:14px 16px}\n.steps .n{font-size:24px;font-weight:800;line-height:1.15;letter-spacing:-.03em;color:#ff5500}\n.steps h3{font-size:15.5px;margin:0 0 4px}\n.steps p{margin:0;font-size:14px;color:#4c443d}\n.faq{display:grid;grid-template-columns:1fr 1fr;gap:12px}\n.qa{border:1.5px dashed #d9d1c8;border-radius:6px;padding:16px 18px;background:#fff}\n.qa h3{font-size:15.5px;margin:0 0 6px;line-height:1.5}\n.qa h3::before{content:\"Q \";color:#ff5500;font-weight:800}\n.qa p{margin:0;font-size:14px;color:#4c443d}\nfooter{border-top:2px solid #16130f;margin-top:60px}\nfooter .wrap{max-width:1080px;margin:0 auto;padding:22px 20px 48px;font-size:12.5px;color:#6d635b;line-height:1.75}\nfooter p{margin:0 0 6px}\nfooter p:last-child{margin-bottom:0}\nfooter strong{color:#16130f;letter-spacing:.14em}\n@media(max-width:600px){\n  .steps li{grid-template-columns:38px 1fr;gap:10px;padding:13px 14px}\n  .steps .n{font-size:20px}\n  .faq{grid-template-columns:1fr}\n}\n@media(max-width:760px){\n  .faq{grid-template-columns:1fr}\n}\n</style><header class=\"masthead\">\n  <div class=\"logo\">MLLSS<span>.</span></div>\n  <p>套餐 · 客户端 · 使用说明</p>\n</header>\n\n<main>\n\n  <div class=\"hero\">\n    <p class=\"kicker\">MLLSS 信息页</p>\n    <h1>MLLSS 机场：三档套餐、四类客户端、五步上手</h1>\n    <p class=\"lede\">把价格、流量、同时在线设备数、客户端怎么选和第一次怎么连，按顺序排在同一页里。没有二级页面，从首屏这几个方块开始往下读就行。</p>\n\n    <div class=\"tiles\">\n      <div class=\"tile tile--accent\">\n        <span class=\"lab\">起步档</span>\n        <span class=\"val\">¥15<small> /月</small></span>\n        <span class=\"sub\">基础版 · 年付 ¥150</span>\n      </div>\n      <div class=\"tile\">\n        <span class=\"lab\">主推档</span>\n        <span class=\"val\">¥35<small> /月</small></span>\n        <span class=\"sub\">旗舰版 · 年付 ¥350</span>\n      </div>\n      <div class=\"tile\">\n        <span class=\"lab\">最高档</span>\n        <span class=\"val\">¥85<small> /月</small></span>\n        <span class=\"sub\">团队版 · 年付 ¥850</span>\n      </div>\n      <div class=\"tile\">\n        <span class=\"lab\">每月流量</span>\n        <span class=\"val\">100<small>–1000GB</small></span>\n        <span class=\"sub\">随档位递增</span>\n      </div>\n      <div class=\"tile\">\n        <span class=\"lab\">同时在线</span>\n        <span class=\"val\">3<small>–20 台</small></span>\n        <span class=\"sub\">随档位递增</span>\n      </div>\n    </div>\n\n    <nav class=\"jump\" aria-label=\"页面内跳转\">\n      <a href=\"#plans\">套餐对比</a>\n      <a href=\"#clients\">客户端</a>\n      <a href=\"#guide\">使用说明</a>\n      <a href=\"#faq\">常见问题</a>\n    </nav>\n  </div>\n\n  <section id=\"plans\">\n    <div class=\"sec-head\">\n      <h2>三档套餐横向对比</h2>\n      <p>价格、流量、设备数和线路说明并排放，横向看一列就是一个完整的档位。</p>\n    </div>\n\n    <div class=\"table-wrap\">\n      <table>\n        MLLSS 套餐对照（整理自参考方案，最终价格权益以购买渠道页面为准）\n        <thead>\n          <tr>\n            <th>对比项</th>\n            <th>基础版</th>\n            <th>旗舰版<span class=\"badge\">推荐</span></th>\n            <th>团队版</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <th>月付价格</th>\n            <td><span class=\"col-price\">¥15</span> /月</td>\n            <td><span class=\"col-price\">¥35</span> /月</td>\n            <td><span class=\"col-price\">¥85</span> /月</td>\n          </tr>\n          <tr>\n            <th>按年付价格</th>\n            <td><span class=\"col-price\">¥150</span> /年</td>\n            <td><span class=\"col-price\">¥350</span> /年</td>\n            <td><span class=\"col-price\">¥850</span> /年</td>\n          </tr>\n          <tr>\n            <th>每月流量</th>\n            <td>100GB 极速流量</td>\n            <td>300GB 极速流量</td>\n            <td>1000GB 极速流量</td>\n          </tr>\n          <tr>\n            <th>同时在线设备</th>\n            <td>3 台</td>\n            <td>5 台</td>\n            <td>20 台</td>\n          </tr>\n          <tr>\n            <th>线路与节点</th>\n            <td>普通线路节点池</td>\n            <td>全节点，含 IPLC 专线游戏加速优化</td>\n            <td>VIP 专属高带宽节点</td>\n          </tr>\n          <tr>\n            <th>流媒体解锁</th>\n            <td>基础流媒体解锁</td>\n            <td>全节点原生流媒体解锁</td>\n            <td>—</td>\n          </tr>\n          <tr>\n            <th>专属支持</th>\n            <td>—</td>\n            <td>7×24 优先工单支持</td>\n            <td>专属客户经理服务，支持企业定制路由</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n\n    <p class=\"note\">年付金额三档都相当于 10 个月的月付费用。表中标注“—”的项目在参考方案里未单独列出，请以购买渠道的完整说明为准；本页不构成下单、支付或退款承诺。</p>\n  </section>\n\n  <section id=\"clients\">\n    <div class=\"sec-head\">\n      <h2>客户端怎么选：按设备类型对号入座</h2>\n      <p>先把设备分四类，再决定装在哪里。本页不提供任何下载链接，只说明选择思路。</p>\n    </div>\n\n    <div class=\"cards\">\n      <article class=\"card\">\n        <h3>手机上用：iOS 与 Android</h3>\n        <p>手机是最好的起点。装好后把订阅信息导入客户端，名称建议写成“MLLSS + 档位名”，以后多份订阅混在一起也能一眼认出。系统切换、换机时记得把订阅信息一起迁移。</p>\n      </article>\n      <article class=\"card\">\n        <h3>电脑上用：Windows 与 macOS</h3>\n        <p>桌面端适合长时间挂着的场景，比如查资料、看视频、远程办公。电脑通常会被算作一台独立设备，和手机不要重复计。如果只是临时用一次，也可以先沿用浏览器里的手动代理设置。</p>\n      </article>\n      <article class=\"card\">\n        <h3>长期在线：路由器与电视盒</h3>\n        <p>路由器、电视盒这类设备一旦连上就很少断开，占用的就是长期名额。基础版只有 3 台同时在线，建议先算清常年开机的设备，再安排手机和电脑的顺序。</p>\n      </article>\n      <article class=\"card\">\n        <h3>下载地址从哪里拿</h3>\n        <p>客户端安装包的来源请以购买后收到的说明为准，本页不放任何下载地址。遇到来路不明的安装包不要输入账号或订阅信息，先核对其来源是否与你的渠道一致。</p>\n      </article>\n    </div>\n  </section>\n\n  <section id=\"guide\">\n    <div class=\"sec-head\">\n      <h2>使用说明：第一次连接的五步</h2>\n      <p>从上到下照着走一遍，基本就能完成首次配置。</p>\n    </div>\n\n    <ol class=\"steps\">\n      <li>\n        <span class=\"n\">01</span>\n        <div>\n          <h3>先核对套餐档位</h3>\n          <p>确认每月流量上限、同时在线设备数和线路说明，是否对得上你的实际用法。一个人日常上网，基础版通常够用；需要专线游戏加速就往上选一档；多设备或小团队一起用，再考虑团队版。</p>\n        </div>\n      </li>\n      <li>\n        <span class=\"n\">02</span>\n        <div>\n          <h3>保存好订阅信息</h3>\n          <p>拿到订阅链接或配置信息后，先在自己的笔记里存一份，不要只留在聊天记录里。换设备、重装客户端、增加第二台机器时都会再用到。</p>\n        </div>\n      </li>\n      <li>\n        <span class=\"n\">03</span>\n        <div>\n          <h3>按系统导入客户端</h3>\n          <p>在对应系统的客户端里导入这份订阅，命名写清档位与生效月份。如果手上有多个订阅，命名规范能省掉后面反复猜测的时间。</p>\n        </div>\n      </li>\n      <li>\n        <span class=\"n\">04</span>\n        <div>\n          <h3>首次连接先做一次延迟测试</h3>\n          <p>连上后不要急着用，先对可用线路做一次延迟测试，优先选响应时间短的那条。玩游戏或开实时通话时，再切到说明中标注了加速优化的线路。</p>\n        </div>\n      </li>\n      <li>\n        <span class=\"n\">05</span>\n        <div>\n          <h3>按并发上限分配设备</h3>\n          <p>基础版 3 台、旗舰版 5 台、团队版 20 台。先把长期在线的路由器、电视盒算进去，剩下的名额留给手机和电脑，避免临时要用时才发现名额满了。</p>\n        </div>\n      </li>\n    </ol>\n  </section>\n\n  <section id=\"faq\">\n    <div class=\"sec-head\">\n      <h2>常见问题</h2>\n      <p>关于套餐、流量、客户端和售后规则的八个问题，左右两栏各四组。</p>\n    </div>\n\n    <div class=\"faq\">\n      <article class=\"qa\">\n        <h3>MLLSS 有哪些套餐档位？</h3>\n        <p>参考方案里分三档：基础版 ¥15/月，每月 100GB 流量，支持 3 台设备同时在线；旗舰版 ¥35/月，每月 300GB，5 台设备；团队版 ¥85/月，每月 1000GB，20 台设备。具体权益以购买渠道页面为准。</p>\n      </article>\n      <article class=\"qa\">\n        <h3>年付比月付能省多少？</h3>\n        <p>按参考价格计算，三档的年付金额都正好等于 10 个月的月付费用，相当于多送两个月：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。是否一次付一年，主要看你打算用多久。</p>\n      </article>\n      <article class=\"qa\">\n        <h3>当月流量用不完会结转到下个月吗？</h3>\n        <p>本页没有拿到流量结转或清零规则的可靠说明，因此不作推测。这类规则通常写在购买渠道的套餐详情里，建议直接查看或向渠道确认。</p>\n      </article>\n      <article class=\"qa\">\n        <h3>同时在线设备数怎么算？</h3>\n        <p>指同一时间保持连接的设备数量：基础版 3 台、旗舰版 5 台、团队版 20 台。路由器、电视盒这类长期开机的设备同样占用名额，规划时先把它们算进去。</p>\n      </article>\n      <article class=\"qa\">\n        <h3>客户端在哪里下载？</h3>\n        <p>本页不提供下载链接。客户端的获取方式以你购买后收到的说明为准。安装前请确认安装包来源与你的渠道一致，不要用来历不明的安装包输入订阅信息。</p>\n      </article>\n      <article class=\"qa\">\n        <h3>第一次用应该选哪条线路？</h3>\n        <p>先对可用线路做一轮延迟测试，优先选响应时间短的那条。如果主要用于游戏或实时通话，可以参考说明中标注了 IPLC 专线游戏加速优化的线路，这项在参考方案里属于旗舰版的描述。</p>\n      </article>\n      <article class=\"qa\">\n        <h3>团队版和另外两档差在哪里？</h3>\n        <p>从参考方案看，团队版的差别主要在容量和服务：每月 1000GB、20 台设备同时在线、VIP 专属高带宽节点、支持企业定制路由，另外配有专属客户经理服务。</p>\n      </article>\n      <article class=\"qa\">\n        <h3>购买后多久生效？不满意能退吗？</h3>\n        <p>本页没有生效时间与退款政策的可靠信息，因此不作推测，也不会代你承诺任何退款条件。这两项请直接查看购买渠道的说明，或向渠道方确认。</p>\n      </article>\n    </div>\n  </section>\n\n</main>\n\n<footer>\n  <div class=\"wrap\">\n    <p><strong>MLLSS</strong> · 套餐、客户端与使用说明信息页</p>\n    <p>本页整理 MLLSS 相关套餐价格、客户端选择与上手步骤，不提供下载链接、支付入口或交易服务，也不代表品牌方的官方发布或授权。套餐价格与权益如与你的购买渠道页面不一致，请以购买渠道页面为准。</p>\n  </div>\n</footer>",
+          "hash": "b518ca436a3fff1390f359e950a60fd7513e5853404df3b5acf595d6decbb707",
+          "seo": {
+            "title": "MLLSS官网｜MLLSS机场套餐、客户端与使用说明",
+            "keywords": "MLLSS,MLLSS官网,MLLSS机场,MLLSS机场官网,机场套餐,机场客户端,机场使用说明",
+            "description": "MLLSS机场套餐、客户端与使用说明一览：对照基础版、旗舰版、团队版三档套餐的价格、流量与同时在线设备数，并整理客户端选择建议与首次上手五步。"
+          },
+          "provider": "deepseek",
+          "model": "deepseek-v4.1-flash-1017",
+          "design": {
+            "no": "6395",
+            "hero": "4 仪表盘式数据块拼贴",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zryskj.cn",
+    "host": "p-6f56be15a2.zryskj.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "2f89b625338f3487bd3c4b9b82f1152ac0959204fe14ac1a3fe0bbe3c443677d",
+    "sitemap.xml": "ebb02335f029512415a263a882f2371e2eff32ed53dc7bfc8f288ec30c778d70",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b14370a9e79116aefae1a8ddda6ccc584fea347ef48ebe2163e8a913e77f29b1",
+    "robots.txt": "5a4c9e79ee5052d7cf7138d0156fbdcf7f0c12fd028f7e6383cf1bb1bd6d5202",
+    "2096277abdf058788096a2689e89a133.txt": "9a33f9d0e67ad430c7eff0c8849a5e2424121a8023812f8f84e152ab52f915f3"
+  },
+  "revision": "5362b6b684b45f2786bd3e9d40b707a998c664d8ec49c52b165002d3d3829d82"
+}
